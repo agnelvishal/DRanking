@@ -39,9 +39,11 @@ app.get('/send', async function (req, res) {
                 onTransactionHash: (hash) => {
                     // action on Transaction success
                     console.log(hash) // eslint-disable-line
+                    res.json({ hash: hash })
                 },
             })
         })
-});
+
+    });
 
 app.listen(3000);
