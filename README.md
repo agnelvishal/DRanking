@@ -7,9 +7,6 @@ As of now Facebook and Google decide the ranking algorithms in their platform. T
 
 ## Solution:
 
-We are building a decentralized content platform where the ranking of content will be based on the user upvotes. 
-
-
 When cryptocurrencies are used to Upvote an article/post, it gets recorded in the blockchain. So other apps can use that data with different ranking algorithms. 
 
 Apps can use ranking parameters like
