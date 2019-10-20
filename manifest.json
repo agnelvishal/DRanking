@@ -1,0 +1,126 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "News Diet",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://www.condense.press/?ref=app",
+    "short_name": "News",
+    "theme_color": "#1fefef",
+    "description": "Pick articles sorted by popularity in a specific date range.",
+    "orientation": "any",
+    "background_color": "#1fefef",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "css/images/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/fde55492-e1b7-41d5-c370-738169a6f00d.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/3095b5c9-e698-c4cb-4916-661ef155c0c5.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/bfe41303-6dcb-bd0a-cd32-82799a835b09.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/e369bbed-7e50-29ef-d120-5122e405ed4d.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/fe40b880-3366-d0c0-64f2-faa39ca9a2c3.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/15cb5a94-1bf5-0b63-d7a0-aa459cce6bf1.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/44c458fe-6b2d-bbc7-f049-b887b8c6afd2.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/a687616e-fd20-bae3-00d4-02346e17ef24.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/df8474d2-ac33-6a18-7472-6ca49a153a53.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/b19a47af-155d-5a2d-5a12-b2d47f92ba63.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/db9d5a78-d79b-3dcf-eb06-a6b183ca212f.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/d23c0010-0a5e-7547-ba19-ad1197d4ed99.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/3b4aab7a-1eae-db35-9d12-9b8644a516a7.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/7222051b-d12d-1cb4-53d0-9296332955a6.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/3d278310-af8d-71ea-3b64-89c9fe2411bf.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/d62a4f68-6c55-d669-1cf9-b3e1048cd08a.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/8a277278-6734-25f1-8c5d-9464bdacccb7.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/94e22b1b-daa6-bac4-a831-3d8266995949.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "css/images/89ad7710-c669-b060-d285-ba5320e1c22f.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+ "screenshots": [{
+    "src": "css/images/light.png",
+    "sizes": "1366x768",
+    "type": "image/png"
+  },{
+    "src": "css/images/dark.jpg",
+    "sizes": "640x480",
+    "type": "image/jpeg"
+  }]
+}

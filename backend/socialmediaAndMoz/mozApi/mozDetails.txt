@@ -1,0 +1,26 @@
+paBatch2 can be run if needed a bit later than paBatch to get diiferent ip. moz is allowing only 3 api's per ip. 
+
+
+url for creating account https://moz.com/community/join?redirect=/products/mozscape/access&source=api
+
+
+av refers to agnelvishal+@gmail.com
+av+2 mozscape-8d82759668 b28c037499e805cf72c9d8f36e15bf13
+
+
+
+agnelvishal+pa0@gmail.com mozscape-704ebc9455
+
+
+mail is agnelvishal+moz3@gmail.com mozscape-2fa6c52ff7
+
+
+mozscape-9424ce25e7   agnelvishal+moz2@gmail.com
+
+
+mail is agnelvishal+moz1@gmail.com   "mozscape-6667868ce7"
+
+agnelvishal+moz4@gmail.com $accessID = "mozscape-c375b8f08b";
+
+mail is agnelvishal+moz4@gmail.com
+$accessID = "mozscape-b5afdfa9f4";
